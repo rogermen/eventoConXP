@@ -3,10 +3,7 @@ package vista;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Administrador
- */
+// roger auca mendoza
 public class IngresoSistema extends javax.swing.JFrame {
 
     /** Creates new form IngresoSistema */
