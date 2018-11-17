@@ -122,7 +122,8 @@ public class conexionEstudiante{
  
         int z = 0;
  
-        try (Connection conn = connectados(); PreparedStatement pstmt = conn.prepareStatement(SQL)) {
+        try (Connection conn = connectados(); 
+                PreparedStatement pstmt = conn.prepareStatement(SQL)) {
 
             z = pstmt.executeUpdate();
  
