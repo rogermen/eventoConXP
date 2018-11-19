@@ -219,7 +219,7 @@ public class inicio extends javax.swing.JFrame {
 
     private void jMenuItem7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem7ActionPerformed
         // TODO add your handling code here:
-        //reporte de gastode del conferencista 
+        //reporte de gastode del conferencista en nuestro evento 
         
         
         Connection coneccion=null;
